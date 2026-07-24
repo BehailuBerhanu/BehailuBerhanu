@@ -39,8 +39,8 @@ Passionate about moving from a consumer of technology to an active software make
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Behailu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BehailuBerhanu&show_icons=true&theme=tokyonight" alt="Behailu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BehailuBerhanu&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
 ---
