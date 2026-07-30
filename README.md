@@ -44,10 +44,6 @@ Passionate about moving from a consumer of technology to an active software make
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=BehailuBerhanu&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BehailuBerhanu&layout=compact&theme=tokyonight" alt="Top Languages" width="350" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BehailuBerhanu&theme=tokyonight" alt="GitHub Streak" width="750" />
